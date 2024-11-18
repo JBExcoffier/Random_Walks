@@ -7,6 +7,10 @@
 - a setup file for the needed packages (`requirements.txt`).
 - all images that were generated and used in the blogpost (in the `Images` directory). Of course as it involves randomness, running the notebook again will produce different results, but the main conclusions will still hold 👌
 
-<img src="Images/students.jpeg" width="800" height="1000" />
+<p align="center">
+  <img src="Images/students.jpeg" width="800" height="1000" />
+</p>
 
-<img src="Images/sky-by-usukhbayar-gankhuyag-unsplash.jpg" width="1000" height="570" />
+<p align="center">
+  <img src="Images/sky-by-usukhbayar-gankhuyag-unsplash.jpg" width="1000" height="570" />
+</p>
