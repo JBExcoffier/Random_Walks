@@ -9,4 +9,4 @@
 
 <img src="Images/students.jpeg" width="800" height="1000" />
 
-<img src="Images/sky-by-usukhbayar-gankhuyag-unsplash.jpg" width="1000" height="600" />
+<img src="Images/sky-by-usukhbayar-gankhuyag-unsplash.jpg" width="1000" height="570" />
